@@ -9,7 +9,7 @@ Smol body tracker for slimevr
 > [!WARNING]
 > I'm not good at PCB Design and I'm also not expert about PCB Design & Electronic circuit. This circuit may have potential danger(circuit shorts, wrong pin connection, etc). It passed ERC & DRC, but If using this PCB Design. Please check again if something wrong.
 
-# Part List
+# Specification
 
 -   PCB Size: 37.9mm x 34.9mm 4-Layer PCB
 -   MCU: ESP32-C3-WROOM-02
