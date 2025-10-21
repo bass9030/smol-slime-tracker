@@ -3,7 +3,7 @@
 ![3D Image](https://github.com/bass9030/smol-slime-tracker/blob/master/images/pcb_3d.png)
 Smol body tracker for slimevr
 
-> **Warning**
+> [!CAUTION]
 > This PCB is not tested at real hardware yet. It may not work. We do not recommend using this PCB to build a slime VR tracker.
 
 # Part List
